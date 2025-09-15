@@ -1,5 +1,8 @@
 # JSONAssert
 
+> [!IMPORTANT]
+> Repo moved here: https://github.com/getsentry/gdunit-json-assert
+
 A fluent API for querying and asserting JSON content in Godot Engine tests using the gdUnit4 testing framework.
 
 At the time of writing, the code was tested to work with gdUnit 5.1.0.
